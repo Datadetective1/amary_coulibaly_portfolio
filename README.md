@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Professional
 
 ### Education
 MBA - Information Systems Management 
